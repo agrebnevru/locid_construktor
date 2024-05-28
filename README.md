@@ -1,6 +1,6 @@
 # ICQ LocID
 
-Программа для сборки мобильной ICQ LocID на Java.
+РџСЂРѕРіСЂР°РјРјР° РґР»СЏ СЃР±РѕСЂРєРё РјРѕР±РёР»СЊРЅРѕР№ ICQ LocID РЅР° Java.
 
 ![Main screen](https://github.com/agrebnevru/locid_construktor/raw/master/screen1.jpg)
 
@@ -10,4 +10,4 @@
 
 ![Chose background](https://github.com/agrebnevru/locid_construktor/raw/master/screen4.jpg)
 
-2010 год
+2010 РіРѕРґ

@@ -1,0 +1,85 @@
+25
+0	Smile, :-), :), =), =)), :-)), :)), +)
+1	Sad, :-(, :(, +(, =(, :-((, :((, +((, =((
+2	Ironic, ;-), ;), ^_~
+3	Tongue, :-P, :P, :-p, :p, +P, =P, +p, =p, :-b, :b, +b, =b
+4	Boss, 8-), 8), B-), B), (H), (h), B-D, BD, B-|
+5	Embarrassed, :-[, :[, (e), (E), :'), :'-), ='), ;'>, ;-.
+6	Shock, =-O, =O, =-o, O_O, O_o, o_O
+7	Udivlen, 8-D, 8-P, 8P, %-)
+8	Lips, :-*, :*, :-{}, :{}, +{}, ={}, ^.^, *KISS*
+9	Angel, O:-), O:), O+), O=), 0:-), 0:), 0+), 0=), (A), (a)
+10	Big Grin, :-D, :D, +D, =D, :-)))), :)))), =)))), *BIGGRIN*
+11	Suspirious, :-\, :-/, =/, =\, *BEEE*
+12	Secret, :-X, :-x, :-#, :#, *SECRET*
+13	Crying, :'(, :'-(, :"(, ;-(, ;(, ='(, *CRY*
+14	Stupid, :-|, :|, =|, *ERMM*, *ermm*
+15	Angry, >:o, >:O, >+O, >:o, >+o, >=O, >=o, :-@, *ANGRY*
+16	Jokingly, *JOKINGLY*, *jokingly*, :o)
+17	Devil, ]:->, }:->, ]:>, }:>, >:-], >:], (6), *DIABLO*, *DEVIL*, *MAD*
+18	Music, [:-}, [:}, [:-), [:), *MUSIC*
+19	Sick, :-!, :!, :-~, ;-~, :(~, +(~, =(~, *SICK*, *sick*
+20	ROFL, *ROFL*, *ROTFL*, :-))))), :-)))))), :))))), :)))))), =))))), =))))))
+21	Kissed, *KISSED*, :"), :"), :-")
+22	Tired, *TIRED*, *BOREDOM*, |-0
+23	Lol, *LOL*, *lol*
+24	Rose, @}->--, @}-:--, @>}--, -`---, (F), (f), @}->-, @};-
+25	Kissing, *KISSING*
+26	Stop, *STOP*, *stop*
+27	Thumbs Up, *THUMBS UP*, *THUMBS_UP*, *THUMBSUP*, *GOOD*, (y), (Y)
+28	Drink, *DRINK*, *BEER*, *beer*, (B), (b), *drink*
+29	In Love, *IN LOVE*, *IN_LOVE*, *INLOVE*
+30	Bomb, @=
+31	Help, *HELP*, *SOS*, *help*, *HELP_ME*, (help)
+32	Coolboy, \m/, *COOLBOY*, *ROCK*, *PUNK*, *SYSTEM*
+33	Wacko, %), %-), :-$, :$, *WACKO*
+34	OK, *OK*, (ok), (OK), *ok*
+35	Wassup, *WASSUP*, *SUP*, *MAMBA*
+36	Sorry, *SORRY*, *sorry*
+37	Bravo, *BRAVO*, *CLAPPING*, *bravo*
+38	Pardon, *PARDON*, =], *pardon*
+39	No, *NO*, *no*
+40	Crazy, *CRAZY*, *crazy*
+41	Vlubilsya, *in love*, *IN LOVE*
+42	Don't Know, *DONT_KNOW*, *DONT KNOW*, *UNKNOWN*, *dont_know*
+43	Dance, *DANCE*, *dance*
+44	Yahoo, *YAHOO*, *yahoo*
+45	Hello, *HI*, *PREVED*, *PRIVET*, *HELLO*, *hi*
+46	Bye, *BYE*, *bye*
+47	Yes, *YES*, *yes*
+48	Lovers, *LOVERS*, *lovers*
+49	Nose, *NOSE*, *nose*
+50	Acute, ;D, *ACUTE*
+51	Dance Jaga, *DANCE_JAGA*, *dance_jaga*
+52	Wall, *WALL*, *DASH*, *wall*
+53	Scratch, *SCRATCH*, *scratch*
+54	Smoke, *SMOKE*, *SMOKING*, *smoke*
+55	Breast, *BREAST*, *breast*
+56	Ass, *ASS*, *ass*
+57	Sex, *SEX*, *sex*
+58	Dj, *DJ*, *dj*
+59	Censored, *CENSORED*, *censored*
+60	Party, *PARTY*, *party*
+61	Black Eye, *VAVA*, *BLACK EYE*, *BLACKEYE*
+62	First Move, *FIRST_MOVE*, *first_move*
+63	Fuck, *FUCK*, *fuck*
+64	Sarcastic, *SARCASTIC*, *sarcastic*
+65	Hospital, *HOSPITAL*, *hospital*
+66	Alkash, *ALCOHOLIC*, *drink_drunk*, *drink drunk*
+67	Poklon, *POKLON*, *poklon*
+68	Strong, *BB*, *bb*, *STRONG*, *strong*
+69	Botan, *BOTAN*, *botan*
+70	Angry, >:o, >:O, >+O, >:o, :-@, *ANGRY*, *angry*
+71	Punish, *PUNISH*, *punish*
+72	Popcorn, *POPCORN*, *popcorn*
+73	Russian, *RUSSIAN*, *russian*
+74	Tease, *TEASE*, *tease*
+75	Lazy, *LAZY*, *ASLEEP*, *SLEEPING*, *SLEEPY*
+76	Search, *SEARCH*, *search*
+77	Whistle, *WHISTLE*, *whistling*, *YU*, :-", :-"
+78	Spiteful, *SPITEFUL*, *spiteful*, :->, :>
+79	Depressed, *DEPRESSED*, *depressed*
+80	Hang, X-), X), *HANG*, *hang*
+81	Scared, *SCARE*, *scare*, *SCARED*, *scared*, *shock_scare*
+82	Suicide, *SUICIDE*, *suicide*, *russian_roulette*, *SHOT*, *russian roulette*, *shot*
+83	Death, *DEATH*, *death*

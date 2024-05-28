@@ -1,0 +1,68 @@
+this file need for PlgSMS
+http://sms.owap.biz
+МТС
+/mts/
+Мегафон-Москва
+/mm/
+Билайн
+/bee/
+Мегафон-Урал
+/mu/
+Мегафон-Центр
+/mc/
+Мегафон-Северо Запад
+/msz/
+Мегафон-Дальний восток
+/mdv/
+Мегафон-Кавказ
+/mk/
+Мегафон-Сибирь
+/ms/
+Мегафон-Поволжье
+/mp/
+СМАРТС-Ярославль
+/smarts_yar/
+СМАРТС-Пенза
+/smarts_p/
+СМАРТС-Волгоград
+/smarts_v/
+СМАРТС
+/smarts/
+Utel
+/utel/
+Tele 2
+/tele2/
+НСС
+/ncc/
+Мотив
+/motiv/
+Байкалвестком
+/bwc/
+Енисей-Телеком
+/etk/
+Татинком
+/tatincom/
+Ульяновск GSM
+/ulgsm/
+Акос
+/akos/
+НТК
+/ntk/
+Скайлинк
+/skylink/
+Цифровая экспансия
+/diex/
+UA.Киевстар/Life
+/kievstar/
+UA.МТС(UMC)
+/umc/
+UA.Билайн
+/beeua/
+UA.Utel
+/utelua/
+KZ.Билайн
+/beekz/
+KZ.Neo
+/neokz/
+На любого
+/wsms/?y
